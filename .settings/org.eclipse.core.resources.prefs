@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/cn/yunhe/dao/IMotifDao.java=UTF-8
+encoding//src/cn/yunhe/dao/impl/UserDaoImpl.java=UTF-8
+encoding//src/cn/yunhe/service/IMotifService.java=UTF-8
+encoding//src/cn/yunhe/utils/DBUtils.java=UTF-8
